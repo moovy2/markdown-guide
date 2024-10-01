@@ -104,7 +104,9 @@ The rendered output looks like this:
 1. Open the file containing the Linux mascot.
 2. Marvel at its beauty.
 
-    ![Tux, the Linux mascot](/assets/images/tux.png)
+    <img srcset="https://mdg.imgix.net/assets/images/tux.png?auto=format&fit=clip&w=100 480w,
+             https://mdg.imgix.net/assets/images/tux.png?auto=format&fit=clip&q=40&w=100 1080w"
+             src="https://mdg.imgix.net/assets/images/tux.png" class="img-fluid" alt="Tux, the Linux mascot" loading="lazy" sizes="100vw">
 
 3. Close the file.
 
