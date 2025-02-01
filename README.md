@@ -1,7 +1,5 @@
 # Markdown Guide
 
-[![Build Status](https://github.com/mattcone/markdown-guide/workflows/tests/badge.svg?branch=master)](https://github.com/mattcone/markdown-guide/actions)
-
 *[The Markdown Guide](https://www.markdownguide.org)* is a comprehensive Markdown reference designed for both novices and experts. It was born out of frustration with existing Markdown references that are incomplete and inadequate.
 
 ## Contributing
@@ -20,10 +18,6 @@ It can be helpful to preview changes on your computer before opening a pull requ
 ### Adding tools
 
 See [this page](https://github.com/mattcone/markdown-guide/wiki/Markdown-tool-directory) for information about adding applications to the [Markdown tools directory](https://www.markdownguide.org/tools/).
-
-## Deployment
-
-Pull requests merged to the master branch are automatically deployed to the production website.
 
 ## License
 
